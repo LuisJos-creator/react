@@ -1,11 +1,11 @@
 import React from 'react'
+import Banner from '../components/Banner'
+import BannerNosotros from '../components/BannerNosotros'
 
 const Nosotros = () => {
   return (
     <>
-    <h1>
-      Hola nosotros
-    </h1>
+    <BannerNosotros/>
     </>
   )
 }

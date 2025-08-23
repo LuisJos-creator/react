@@ -2,3 +2,11 @@
 @plugin "daisyui" {
   themes: all;
 }
+
+@font-face {
+  font-family: trade;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("src/fonts/Trade Gothic Bold Condensed No. 20.otf") format("otf");
+}
